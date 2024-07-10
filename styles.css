@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 50px 0;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+section {
+  padding: 60px 0;
+}
+
+.card-title {
+  font-size: 1.5em;
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+  padding: 20px 0;
+}
+
+.form-control, .btn {
+  border-radius: 0;
+}
